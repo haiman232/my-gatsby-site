@@ -1,0 +1,26 @@
+[
+  {
+    "img": "../assets/images/travel-1.jpg",
+    "alt":"Kyoto",
+    "name":"Kyoto",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/travel-2.jpg",
+    "alt":"Tokyo",
+    "name":"Tokyo",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/travel-4.jpg",
+    "alt":"Fujisan",
+    "name":"Fujisan",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/travel-5.jpg",
+    "alt":"Osaka",
+    "name":"Osaka",
+    "button": "View Destination"
+  }
+]

@@ -34,7 +34,7 @@ const Hero = () => {
 
 export default Hero
 
-const HeroContainer = styled.div`
+const HeroContainer = styled.section`
   background: #0c0c0c;
   display: flex;
   justify-content: center;
