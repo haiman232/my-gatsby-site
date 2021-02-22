@@ -8,6 +8,7 @@ export const Button = styled(Link)`
   color: #fff;
   font-size: ${({ big }) => (big ? "20px" : "16px")};
   outline: none;
+  border: none;
   min-width: 100px;
   text-decoration: none;
   cursor: pointer;
