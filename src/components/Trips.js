@@ -33,7 +33,6 @@ const Trips = ({ heading }) => {
       tripArray.push(
         <ProductCard key={index}>
           <ProductImg
-            src={item.node.img.childImageSharp.fluid.src}
             alt={item.node.alt}
             fluid={item.node.img.childImageSharp.fluid}
           />
@@ -87,6 +86,7 @@ const ProductWrapper = styled.div`
   grid-template-columns: repeat(4, 1fr);
   grid-gap: 10px;
   justify-items: center;
+  padding: 0 2rem;
 
   @media screen and (max-width: 1280px) {
     grid-template-columns: 1fr 1fr;
